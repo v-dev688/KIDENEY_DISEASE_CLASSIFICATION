@@ -27,7 +27,7 @@ list_of_files = [
 
 
 ]
-
+ 
 
 for filepath in list_of_files:
     filepath = Path(filepath)
